@@ -1,0 +1,12 @@
+.app {
+  padding: 20px;
+}
+
+.posts-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+body{
+  background-color: rgb(132, 133, 133);
+}
